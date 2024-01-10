@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajus14&label=Profile%20views&color=0e75b6&style=flat" alt="kajus14" /> </p>
 
-- 🌱 I’m currently learning robotics.
+- I just love making graphical user interfaces for Valve games/Source engine. 😍.
 
 - 📫 How to reach me: Discord - killerbean0112
 </p>
